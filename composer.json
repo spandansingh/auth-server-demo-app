@@ -13,6 +13,5 @@
 	"require":{
 		"php": ">=5.4.0",
 		"spandansingh/auth-server-api": "dev-master"
-
 	}
 }
